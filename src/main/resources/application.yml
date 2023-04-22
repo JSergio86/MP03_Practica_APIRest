@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  datasource:
+     url: jdbc:postgresql://192.168.1.120:5432/usuarios
+     username: sergio
+     password: password
